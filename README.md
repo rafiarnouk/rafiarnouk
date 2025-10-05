@@ -1,8 +1,8 @@
 ## Hello 👋
 
-I’m Rafi, an undergraduate student majoring in Computer Science at the University of British Columbia with plans to minor in Mathematics. 
+I’m Rafi, an undergraduate student majoring in Computer Science and minoring in Mathematics at the University of British Columbia. 
 
-🌱 I have recently spent 8 months building internal laboratory management software used by scientists and engineers developing electrochromic windows at Miru Smart Technologies. Before that, I spent a summer working with the data team at SkyHive where I contributed to data analysis projects involving large-scale labour economy data.
+🌱 I have recently completed an internship at Amazon in Vancouver, where I was working on the LLM Runtime and Guardrails Team in the Alexa organization. Before that, I spent 8 months building internal laboratory management software used by scientists and engineers developing electrochromic windows at Miru Smart Technologies. Additionally, I have spent a summer working with the data team at SkyHive where I contributed to data analysis projects involving large-scale labour economy data.
 
 🏀 I am currently working on a [machine learning project](https://github.com/rafiarnouk/nba-ml-analysis) involving NBA data. The goal is to explore how I can use various different machine learning models and techniques to make predictions and gain insights from basketball data scraped from [Basketball Reference](https://www.basketball-reference.com/) and perhaps social media. At the moment I am working on the machine learning aspect of the project in a Colab notebook, but in the future I intend to turn this into a full stack web application where users can explore the results of the project.
 
